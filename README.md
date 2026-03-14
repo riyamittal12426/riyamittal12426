@@ -35,7 +35,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riyamittal12426&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyamittal12426&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyamittal12426&show_icons=true&locale=en" alt="riyamittal12426" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyamittal12426&" alt="riyamittal12426" /></p>
 
