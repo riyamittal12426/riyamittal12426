@@ -6,19 +6,22 @@
 
 
 
-- 🔭 I’m currently working on **Web Development related projects**
+🚀 Full-Stack Developer passionate about building modern, scalable, and user-centric applications
 
-- 🌱 I’m currently learning **Machine Learning**
+🧠 Expanding my expertise in Machine Learning, AI, and Data-Driven Solutions
 
-- 👯 I’m looking to collaborate on **Web Development related projects**
+🌍 Collaborating with developers, founders, and creators to build impactful products
 
-- 🤝 I’m looking for help with **Hackathons and Community Development**
+🏅 Hackathon Enthusiast | Open Source Contributor | Community Builder
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-lime-eta-80.vercel.app/](https://my-portfolio-lime-eta-80.vercel.app/)
+👨‍💻 Check out my projects and contributions: [https://my-portfolio-lime-eta-80.vercel.app/]
 
-- 💬 Ask me about **Frontend and Backend**
+💬 Expertise in Frontend Development, Backend Systems, APIs, and Database Management
 
-- 📫 How to reach me **riyam12426@gmail.com**
+📫 Let's connect: **riyam12426@gmail.com**
+
+⚡ Turning ideas into real-world products through code and innovation
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
